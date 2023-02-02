@@ -1,0 +1,22 @@
+
+/*Foto de Perfil*/
+@media (min-width:576px){
+    #perfil_foto{
+        position: absolute;
+        width: 25%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px grey;
+        left: 72%;
+        top: 600px;
+    }   
+} 
+@media (max-width:575px){
+    #perfil_foto{
+        position: absolute;
+        width: 35%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px grey;
+        left: 33%;
+        top: 600px;
+    }
+}
