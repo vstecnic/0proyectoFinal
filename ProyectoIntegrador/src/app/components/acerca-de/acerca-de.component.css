@@ -3,7 +3,7 @@
 @media (min-width:576px){
     #perfil_foto{
         position: absolute;
-        width: 25%;
+        width: 27%;
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 72%;
@@ -17,6 +17,14 @@
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 33%;
-        top: 600px;
+        top: 470px;
     }
+}
+#divTitulo{
+    background-color: chartreuse;
+    text-align: center;
+}
+#divDetalles{
+    background-color: coral;
+     text-align: center;
 }
