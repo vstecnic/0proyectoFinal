@@ -1,0 +1,9 @@
+.row{
+    background-color: black;
+    color: #fefefe;
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+}
